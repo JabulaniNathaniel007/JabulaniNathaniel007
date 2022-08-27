@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Jabulani Nathaniel
+
+<h1 align="center">Hi 👋, I'm Jabulani Nathaniel</h1>
+
 A passionate cetified computer engineer from Botswana, Africa. I’m currently looking for a software engineering job as an intern.
 
 - 👀 I’m interested in Backend and DevOps Engineering
