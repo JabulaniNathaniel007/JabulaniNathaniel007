@@ -3,7 +3,7 @@
 
 I am a passionate computer engineer from Botswana, Africa.
 
-- 👀 I’m interested in Backend and DevOps Engineering
+- 👀 I’m interested in Android development, Backend development and DevOps.
 - 🌱 I’m currently learning Rust and GO Programming Language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jabulaninathaniel01@gmail.com
