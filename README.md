@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Jabulani Nathaniel</h1>
 
-I am a passionate computer engineer from Botswana, Africa. I really enjoy learning languages and frameworks like Rust ,Pytorch and Actix, as well as work in Jetpack Compose, Tensorflow and Django. I also enjoy designing ui.
+I am a passionate computer engineer from Botswana, Africa. I really enjoy learning languages and frameworks like Rust ,Pytorch and GO, as well as work in Jetpack Compose, Tensorflow and Django. I also enjoy designing ui.
 
 - 👀 I’m interested in Android development, Machine Learning and Web development.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and GO
 - 💞️ I’m looking to collaborate on Rust
 - 📫 How to reach me jabulaninathaniel01@gmail.com
 - ⚡ Fun fact i love watching anime
