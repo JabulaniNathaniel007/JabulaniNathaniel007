@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jabulani Nathaniel</h1>
 
-A passionate cetified computer engineer from Botswana, Africa.
+I am a passionate computer engineer from Botswana, Africa.
 
 - 👀 I’m interested in Backend and DevOps Engineering
 - 🌱 I’m currently learning Rust and GO Programming Language 
